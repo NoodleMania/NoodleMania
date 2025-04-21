@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Hello, I'm not even sure if this is working and if I'm doing things right!
+- 🔭 I’m currently working on: A very rude 8-Ball fortune generator
+- 🌱 I’m currently learning: Python and AWS
+- 💬 Ask me about: 3D Modeling and Game Dev
+- 📫 How to reach me: anthony.donguyen@gmail.com
+- 😄 Pronouns: They/Them
+- ⚡ Fun fact: I do 3D Modeling and Art as a hobby!
